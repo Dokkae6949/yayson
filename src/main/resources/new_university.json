@@ -1,0 +1,133 @@
+{
+    "name" : "University of Graz",
+    "address" : {
+        "streetName" : "Briar Crest",
+        "streetNum" : "501",
+        "plz" : "80249",
+        "city" : "Graz"
+    },
+    "departments" : [
+        {
+            "id" : 1,
+            "name" : "Shoes",
+            "head" : {
+                "name" : "Giulietta",
+                "lastName" : "Cubbini",
+                "title" : "MR"
+            },
+            "profs" : [
+                {
+                    "id" : 1,
+                    "fname" : "Lizbeth",
+                    "lname" : "Frankum",
+                    "hdate" : "05/23/1991",
+                    "courses" : [
+                        {
+                            "id" : "01J9VA9W2JHASAWBVXC3CFVSCK",
+                            "semester" : "SUMMER",
+                            "ects" : 5.6,
+                            "students" : [
+                            ]
+                        },
+                        {
+                            "id" : "01J9VA9W2S9DCMMCV17D52XDEA",
+                            "semester" : "WINTER",
+                            "ects" : 3.9,
+                            "students" : [
+                                {
+                                    "firstname" : "Johannes",
+                                    "lastname" : "Loibner",
+                                    "id" : 1
+                                },
+                                {
+                                    "firstname" : "Nicole",
+                                    "lastname" : "Tramp",
+                                    "id" : 2
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id" : 10,
+                    "fname" : "Jada",
+                    "lname" : "Candie",
+                    "hdate" : "05/22/1991",
+                    "courses" : [
+                    ]
+                },
+                {
+                    "id" : 9,
+                    "fname" : "Mamie",
+                    "lname" : "Nutley",
+                    "hdate" : "05/22/1991",
+                    "courses" : [
+                    ]
+                },
+                {
+                    "id" : 8,
+                    "fname" : "Darrell",
+                    "lname" : "Barense",
+                    "hdate" : "05/22/1991",
+                    "courses" : [
+                    ]
+                },
+                {
+                    "id" : 7,
+                    "fname" : "Devland",
+                    "lname" : "Ohanessian",
+                    "hdate" : "05/22/1991",
+                    "courses" : [
+                    ]
+                },
+                {
+                    "id" : 6,
+                    "fname" : "Veradis",
+                    "lname" : "Maier",
+                    "hdate" : "05/22/1991",
+                    "courses" : [
+                    ]
+                },
+                {
+                    "id" : 5,
+                    "fname" : "Georg",
+                    "lname" : "Yersin",
+                    "hdate" : "05/24/1991",
+                    "courses" : [
+                    ]
+                },
+                {
+                    "id" : 4,
+                    "fname" : "Gregorius",
+                    "lname" : "McGinly",
+                    "hdate" : "05/22/1991",
+                    "courses" : [
+                    ]
+                },
+                {
+                    "id" : 3,
+                    "fname" : "Teriann",
+                    "lname" : "Brouard",
+                    "hdate" : "05/22/1991",
+                    "courses" : [
+                        {
+                            "id" : "01J9VA9W2S9DCMMCV17D52XDEF",
+                            "semester" : "WINTER",
+                            "ects" : 3.9,
+                            "students" : [
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id" : 2,
+                    "fname" : "Cullin",
+                    "lname" : "Mogg",
+                    "hdate" : "05/26/1991",
+                    "courses" : [
+                    ]
+                }
+            ]
+        }
+    ]
+}
